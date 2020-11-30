@@ -13,16 +13,10 @@
 <a href="https://stackoverflow.com/users/11474007/ganesh-krishna" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-  
 
-
-
-### Glad to see you here!  
 I’m a Javascript/Frontend developer with 5+ years of experience in developing mid to large scale web applications. Currently I am working on different aspects of the frontend development activities at [VIDA](https://vida.id). Prior to this, I have worked for [OneDirect](https://onedirect.in/) & [EY](https://www.ey.com/).  
-  
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -39,5 +33,4 @@ I’m a Javascript/Frontend developer with 5+ years of experience in developing 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />  
 </div>  
-
 <br/> 
