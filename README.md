@@ -18,7 +18,7 @@ I’m a Javascript/Frontend developer with 5+ years of experience in developing 
 
 <br/>  
 
-## Languages and Tools  
+## Skills
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
